@@ -1,4 +1,6 @@
 ## Global AI Bootcamp 2024 Manila Philippines
+![Global AI Bootcamp 2024-Manila](https://github.com/rijwanansari/GlobalAI/assets/25387035/892788f1-e0dd-4bbf-aa73-99b496833b69)
+
 Join us for the Global AI Bootcamp 2024, an annual worldwide event where developers and AI enthusiasts converge to explore the cutting-edge world of Artificial Intelligence. Hosted by the local chapter of the Global AI Community, this event promises a month-long journey of discovery, learning, and collaboration throughout March 2024. Event Highlights:
 
 Date & Time: March 16, 2024 | 5:00 PM - 8:00 PM Location: Virtual (Link will be shared closer to the date) Topics Covered:
