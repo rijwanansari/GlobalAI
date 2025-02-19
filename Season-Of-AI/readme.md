@@ -1,4 +1,6 @@
 ## Season of AI: Exploring Current Trends and Advancements
+![SeasonOfAI](https://github.com/user-attachments/assets/b1d911f8-9b64-4ce8-93d6-03aeb3cd0239)
+
 ## Details
 
 Step into the Season of AI, an event that unpacks the latest advancements, tools, and real-world applications of Artificial Intelligence today. This is your chance to stay at the forefront of AI’s most current trends and innovations shaping industries across the globe.
