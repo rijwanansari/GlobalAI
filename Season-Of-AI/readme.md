@@ -6,9 +6,9 @@
 Step into the Season of AI, an event that unpacks the latest advancements, tools, and real-world applications of Artificial Intelligence today. This is your chance to stay at the forefront of AI’s most current trends and innovations shaping industries across the globe.
 
 ### Event Details
-https://dotnetcopilot.com/season-of-ai-exploring-current-trends-and-advancements/
-📅 Date: 22 Feb 2025
-⏰ Time: 1pm–3pm
+https://dotnetcopilot.com/season-of-ai-exploring-current-trends-and-advancements/ <br>
+📅 Date: 22 Feb 2025 <br>
+⏰ Time: 1pm–3pm <br>
 📍 Location: Virtual (Link will be shared closer to the date)
 ## What to Expect
 🔍 AI in Action: Discover how AI is being implemented today to solve complex challenges and create opportunities across industries.
