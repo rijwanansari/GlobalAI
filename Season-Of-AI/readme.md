@@ -1,5 +1,5 @@
 ## Season of AI: Exploring Current Trends and Advancements
-![SeasonOfAI](https://github.com/user-attachments/assets/b1d911f8-9b64-4ce8-93d6-03aeb3cd0239)
+![SeasonOfAI](https://github.com/user-attachments/assets/3c4027bd-0f33-4493-a0f0-eaeb02984611)
 
 ## Details
 
