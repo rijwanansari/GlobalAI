@@ -1,6 +1,6 @@
 ## Global AI Bootcamp 2025, Philippines
 Join us 15 March 2025 for a FREE Online event to inspire, learn and deep dive into AI world and technologies.
-🌐 About the Event:
+## 🌐 About the Event:
 The Global AI Bootcamp 2025 in Manila, Philippines, is set to be a month-long exploration of Artificial Intelligence, featuring workshops, sessions, and discussions throughout March. We're inviting passionate and knowledgeable speakers to share their insights, experiences, and expertise in the exciting realm of AI.
 ![Global AI Bootcamp 2025-7](https://github.com/user-attachments/assets/a1ad170f-acd0-45a8-879c-aa568dc47341)
 
