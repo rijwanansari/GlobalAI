@@ -1,4 +1,7 @@
 ## Speakers Banner
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8d009667-be6f-4cd6-aba6-5d21a3992531" />
+
+<br>
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ea24725a-6fa8-4f35-81f3-915e4d445d85" />
 
 <br>
